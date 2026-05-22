@@ -4,84 +4,52 @@
 
 ## README 🇬🇧
 
-Optimized configurations for the most popular competitive games.  
-Designed to reduce lag, micro-stutters and improve FPS on Windows.
+Optimized configs for competitive gaming on Windows.
+The goal is to cut lag and micro-stutters without touching anything you don't need to touch.
 
-Running `IWR.ps1` opens an interactive menu where you can select your game and apply its configuration with a single keypress.
-
-### Supported games
-
-| # | Game |
-|---|------|
-| 1 | PUBG |
-| 2 | Frag Punk |
-| 3 | Splitgate 1 / Splitgate 2 |
-| 4 | The Finals |
-| 5 | ARC Raiders |
-| 6 | Battlefield (Bad Company 2 · BF3 · BF4 · Hardline · BF1 · BFV · BF2042 · BF6) |
-| 7 | Delta Force |
-| 8 | Call of Duty (BO4 · MW19 · Cold War · Vanguard · MW2 · MW3 · BO6 · BO7) |
-| 9 | Marvel Rivals |
-| 10 | Counter-Strike 2 |
-| 11 | Star Wars Battlefront I / II |
+Running `IWR.ps1` opens an interactive menu — pick your game, apply, done.
 
 ### How to use
 
-Paste this in an **elevated (Administrator) PowerShell** window:
+Open PowerShell **as Administrator** and paste:
 
 ```powershell
 irm https://raw.githubusercontent.com/SrDexterGF/Game_Configs/main/IWR.ps1 | iex
 ```
 
-Adjust in-game settings such as sensitivity, resolution, refresh rate and graphics to your personal preference — these configs are a starting point, not a final setup.
+These configs are a starting point. Sensitivity, resolution, refresh rate — adjust those yourself to fit your setup.
 
 ---
 
 ## DISCLAIMER
 
-> **Warning:** Applying these configurations may overwrite or reset your existing game settings.  
-> Back up your current settings before proceeding.  
-> Use at your own responsibility.
+Applying these configs may overwrite your current game settings.
+Back up anything you care about before running this.
+Use at your own risk.
 
 ---
 
 ## LEEME 🇪🇸
 
-Configuraciones optimizadas para los juegos competitivos más populares.  
-Pensadas para reducir lag, micro-stutters y mejorar los FPS en Windows.
+Configuraciones optimizadas para gaming competitivo en Windows.
+El objetivo es reducir el lag y los micro-stutters sin tocar lo que no hace falta tocar.
 
-Al ejecutar `IWR.ps1` se abre un menú interactivo donde puedes seleccionar tu juego y aplicar su configuración con una sola tecla.
-
-### Juegos soportados
-
-| # | Juego |
-|---|-------|
-| 1 | PUBG |
-| 2 | Frag Punk |
-| 3 | Splitgate 1 / Splitgate 2 |
-| 4 | The Finals |
-| 5 | ARC Raiders |
-| 6 | Battlefield (Bad Company 2 · BF3 · BF4 · Hardline · BF1 · BFV · BF2042 · BF6) |
-| 7 | Delta Force |
-| 8 | Call of Duty (BO4 · MW19 · Cold War · Vanguard · MW2 · MW3 · BO6 · BO7) |
-| 9 | Marvel Rivals |
-| 10 | Counter-Strike 2 |
-| 11 | Star Wars Battlefront I / II |
+Al ejecutar `IWR.ps1` se abre un menú — eliges el juego, aplicas y listo.
 
 ### Cómo usarlo
 
-Pega esto en una ventana de **PowerShell con permisos de administrador**:
+Abre PowerShell **como Administrador** y pega esto:
 
 ```powershell
 irm https://raw.githubusercontent.com/SrDexterGF/Game_Configs/main/IWR.ps1 | iex
 ```
 
-Ajusta dentro del juego la sensibilidad, resolución, tasa de refresco y gráficos a tu gusto — estas configuraciones son un punto de partida, no una configuración final.
+Estas configs son un punto de partida. La sensibilidad, la resolución, la tasa de refresco — eso lo ajustas tú según tu setup.
 
 ---
 
 ## DESCARGO DE RESPONSABILIDAD
 
-> **Aviso:** Aplicar estas configuraciones puede sobrescribir o restablecer tus ajustes actuales del juego.  
-> Se recomienda hacer una copia de seguridad antes de proceder.  
-> Úsalo bajo tu propia responsabilidad.
+Aplicar estas configuraciones puede sobrescribir los ajustes actuales de tus juegos.
+Haz copia de seguridad de lo que no quieras perder antes de ejecutar esto.
+Úsalo bajo tu responsabilidad.
