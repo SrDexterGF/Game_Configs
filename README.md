@@ -5,7 +5,8 @@
 ## README 🇬🇧
 
 System-level optimizations built for competitive gaming on Windows.
-Each profile targets input latency, frametime stability and network stack behavior for its specific title.
+
+Each profile targets input latency, frametime stability and network stack behavior.
 
 ### How to use
 
@@ -32,7 +33,8 @@ Use at your own responsibility.
 ## LEEME 🇪🇸
 
 Perfiles de optimización a nivel de sistema para entorno competitivo en Windows.
-Cada configuración actúa sobre la latencia de entrada, la estabilidad de frametime y el comportamiento del stack de red del título correspondiente.
+
+Cada configuración actúa sobre la latencia de entrada, la estabilidad de frametime y el comportamiento del stack de red.
 
 ### Cómo usarlo
 
