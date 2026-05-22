@@ -8,7 +8,7 @@ System-level optimizations built for competitive gaming on Windows.
 
 Each profile targets input latency, frametime stability and network stack behavior.
 
-### How to use
+## How to use
 
 Open PowerShell **as Administrator** and paste:
 
@@ -36,7 +36,7 @@ Perfiles de optimización a nivel de sistema para entorno competitivo en Windows
 
 Cada configuración actúa sobre la latencia de entrada, la estabilidad de frametime y el comportamiento del stack de red.
 
-### Cómo usarlo
+## Cómo usarlo
 
 Abre PowerShell **como Administrador** y pega esto:
 
