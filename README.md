@@ -4,10 +4,10 @@
 
 ## README 🇬🇧
 
-Optimized configs for competitive gaming on Windows.
-The goal is to cut lag and micro-stutters without touching anything you don't need to touch.
+Performance-focused configurations for competitive gaming on Windows.
+Each config targets input latency, frame stability and network consistency for its game.
 
-Running `IWR.ps1` opens an interactive menu — pick your game, apply, done.
+Running `IWR.ps1` opens an interactive menu where you can select and apply any config directly.
 
 ### How to use
 
@@ -17,24 +17,24 @@ Open PowerShell **as Administrator** and paste:
 irm https://raw.githubusercontent.com/SrDexterGF/Game_Configs/main/IWR.ps1 | iex
 ```
 
-These configs are a starting point. Sensitivity, resolution, refresh rate — adjust those yourself to fit your setup.
+Sensitivity, resolution and graphics preferences are not touched — those are personal and stay yours to set.
 
 ---
 
 ## DISCLAIMER
 
-Applying these configs may overwrite your current game settings.
-Back up anything you care about before running this.
-Use at your own risk.
+These configs may overwrite existing game settings.
+Back up your current configuration before applying anything.
+Use at your own responsibility.
 
 ---
 
 ## LEEME 🇪🇸
 
-Configuraciones optimizadas para gaming competitivo en Windows.
-El objetivo es reducir el lag y los micro-stutters sin tocar lo que no hace falta tocar.
+Configuraciones orientadas al rendimiento para gaming competitivo en Windows.
+Cada config está enfocada en reducir la latencia de entrada, estabilizar los frames y optimizar la red para su juego.
 
-Al ejecutar `IWR.ps1` se abre un menú — eliges el juego, aplicas y listo.
+Al ejecutar `IWR.ps1` se abre un menú interactivo desde el que puedes seleccionar y aplicar cualquier configuración directamente.
 
 ### Cómo usarlo
 
@@ -44,12 +44,12 @@ Abre PowerShell **como Administrador** y pega esto:
 irm https://raw.githubusercontent.com/SrDexterGF/Game_Configs/main/IWR.ps1 | iex
 ```
 
-Estas configs son un punto de partida. La sensibilidad, la resolución, la tasa de refresco — eso lo ajustas tú según tu setup.
+La sensibilidad, resolución y preferencias gráficas no se modifican — eso es personal y queda a tu criterio.
 
 ---
 
 ## DESCARGO DE RESPONSABILIDAD
 
-Aplicar estas configuraciones puede sobrescribir los ajustes actuales de tus juegos.
-Haz copia de seguridad de lo que no quieras perder antes de ejecutar esto.
-Úsalo bajo tu responsabilidad.
+Estas configuraciones pueden sobrescribir los ajustes actuales de tus juegos.
+Haz una copia de seguridad antes de aplicar cualquier cambio.
+Úsalo bajo tu propia responsabilidad.
